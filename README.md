@@ -1,13 +1,15 @@
-市原様
+鈴木様
 
-ご丁寧にご返信いただき、誠にありがとうございます。
-添付資料も拝見し、内容を詳しく確認させていただきました。
-来年3月の部員募集を今からとても楽しみにしております。
+ご連絡ありがとうございます。
+詳細のご案内もいただき、誠にありがとうございます。
+今週の練習についても承知いたしました。
+機会がありましたら、ぜひ拝見させていただければと思います。
 
-また、来月のゴルフコンペについても拝見しました。とても魅力的なイベントでぜひ参加したかったのですが、当日は家族が東京に来る予定のため、今回は見送らせていただきます。
-次回の開催を楽しみにしております。
+どうぞよろしくお願いいたします。
 
-今後ともどうぞよろしくお願いいたします。
+Zeng YanYun
+
+
 # 📦 Product Card Frontend Test
 
 A simple **Product Card** built with **React** and **Chakra UI**. This project demonstrates responsive design, accessibility, and modular component development.
