@@ -1,6 +1,6 @@
-すみません、今会社に向かっている途中なのですが、電車が少し遅延しているようです。
-到着は14時15分頃になりそうです。少し遅れてしまい申し訳ありません。
+Sorry for the late notice — I was in meetings earlier.
 
+I wanted to let you know that after the IT & Townhall session this Friday, I need to go for a follow-up health check. One of the results was abnormal, and HR has asked me to get it re-examined as soon as possible.
 
 # 📦 Product Card Frontend Test
 
