@@ -1,6 +1,13 @@
-Sorry for the late notice — I was in meetings earlier.
+Dear Health Promotion Center,
 
-I wanted to let you know that after the IT & Townhall session this Friday, I need to go for a follow-up health check. One of the results was abnormal, and HR has asked me to get it re-examined as soon as possible.
+I have completed the re-examination as requested.
+Please find the attached medical test results.
+
+Thank you very much for your support.
+
+Best regards,
+ZENG Yanyun
+
 
 # 📦 Product Card Frontend Test
 
