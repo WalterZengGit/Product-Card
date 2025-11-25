@@ -1,12 +1,13 @@
-Dear Health Promotion Center,
+Aさん
+Zengです。すみません、下記2点だけ確認させてください。
+	1.	該当ドキュメントにコメントを入れる権限がないようで、14ページには以下のようなコメントを想定していました。
+　「Macromill へのデータ授受において、SSO/MEA の導入およびデータ伝送の暗号化（可能であればエンドツーエンド暗号化）が実装されているかどうかを確認したい意図です。」
+　もし気になる点があれば教えてください。
+	2.	資料内の赤字ですが、Aさんが追加したものになりますか？
+　それともBさんによる追記でしょうか。コメント欄にAさんの更新が見えたので念のため確認です。
 
-I have completed the re-examination as requested.
-Please find the attached medical test results.
+よろしくお願いします。
 
-Thank you very much for your support.
-
-Best regards,
-ZENG Yanyun
 
 
 # 📦 Product Card Frontend Test
