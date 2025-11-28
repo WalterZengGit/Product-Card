@@ -1,12 +1,5 @@
-Dear Ishida-san,
-
-Thank you for your message.
-The doctor mentioned that the elevated value may be due to insufficient water intake, especially when fasting before the check-up. According to his assessment, I do not need another examination within one year.
-
-Thank you for your confirmation.
-
-Best regards,
-Zeng YanYun
+ローカルでファイルを開いても依然として閲覧専用の状態で、
+昨日更新した内容もオンライン上のファイルには同期されていないことに気付きました。
 
 
 
